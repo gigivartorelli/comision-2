@@ -1,0 +1,46 @@
+body{
+    background-color: #fffcec;
+    color: #333;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+h1, h2{
+    text-align: center;
+}
+
+h1 {
+
+    color: #7d2cba;
+}
+
+h2{
+    text-transform: uppercase;
+    color: #333;
+}
+
+
+h3{
+    color: #d295cc;
+}
+
+h4{
+    color: #d295cc;  
+}
+
+em{
+    text-decoration: underline;
+    color: #d295cc;  
+}
+
+a {
+    color: #d295cc;
+}
+
+img {
+    border-radius: 15px;
+    width: 50%;
+    display: block;
+    margin: auto;
+}
